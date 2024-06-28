@@ -1,2 +1,6 @@
 this txt is writen for learning the solution of  conflict of branch submission.
+
 ths line is eidited in branch master.
+
+another try
+
